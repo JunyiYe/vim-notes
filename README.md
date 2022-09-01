@@ -10,9 +10,9 @@ Search the wordA. Type the following command and press "Enter", press "N" to jum
 ## Replace wordA with wordB
 Replace only the first occurance.
 ```
-:s/wordA/wordB/
+:%s/wordA/wordB/
 ```
 Replace for all occurances with flag g
 ```
-:s/wordA/wordB/g
+:%s/wordA/wordB/g
 ```
